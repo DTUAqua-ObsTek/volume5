@@ -21,7 +21,7 @@ The original version of the code is described in:
 
 Clone the code repository.
 
-`git clone https://tocome.git && cd tocome/`
+`git clone https://github.com/DTUAqua-ObsTek/volume5.git && cd volume5/
 
 Compile with the math standard libray:
 
