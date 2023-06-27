@@ -21,7 +21,7 @@ The original version of the code is described in:
 
 Clone the code repository.
 
-`git clone https://github.com/DTUAqua-ObsTek/volume5.git && cd volume5/
+`git clone https://github.com/DTUAqua-ObsTek/volume5.git && cd volume5/`
 
 Compile with the math standard libray:
 
@@ -29,7 +29,7 @@ Compile with the math standard libray:
 
 # Usage
 
-`./vol5 2000000000 track.txt > out.out
+`./vol5 2000000000 track.txt > out.out`
 
 Input: Track.txt contains x, y, z values of the track.
 
